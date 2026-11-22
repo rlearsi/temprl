@@ -1,0 +1,7 @@
+{
+  "sensor_id": "k10temp:Tctl",
+  "interval_sec": 2,
+  "unit": "C",
+  "show_max_in_tray": true,
+  "max_mode": "60s"
+}
